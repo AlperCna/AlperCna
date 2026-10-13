@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AlperCna?tab=repositories"><img src="https://img.shields.io/badge/Repositories-28-1f6feb?style=flat-square&logo=github" alt="repos"></a>
+  <a href="https://github.com/AlperCna?tab=repositories"><img src="https://img.shields.io/badge/Repositories-34-1f6feb?style=flat-square&logo=github" alt="repos"></a>
   <img src="https://komarev.com/ghpvc/?username=AlperCna&style=flat-square&color=1f6feb&label=Profile+Views" alt="profile views">
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Full--Stack-1f6feb?style=flat-square" alt="focus">
 </p>
@@ -17,6 +17,7 @@
 
 ## 👨‍💻 About Me
 
+- 🚀 Currently building **[AdresTR](https://github.com/AlperCna/AdresTR)** — an open-source Turkish address parser and benchmark for .NET ([try it](https://alpercna.github.io/AdresTR/))
 - 🔭 I mostly work on **backend & full-stack** projects across **.NET, Java, and Scala**
 - 📱 I also build **cross-platform mobile apps** with **Flutter**
 - 🤖 Interested in **AI-powered applications** and **workflow automation** (n8n)
@@ -67,6 +68,7 @@
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
+| **[AdresTR](https://github.com/AlperCna/AdresTR)** | 🇹🇷 Open-source **Turkish address parser** for .NET: resolves il/ilçe/mahalle to official ids, explains every correction, ships the first open benchmark (95.8% exact match on real addresses). [Live demo](https://alpercna.github.io/AdresTR/) · NuGet · REST API · Python/TS clients | `.NET 10` `C#` `Blazor WASM` `Docker` |
 | **[SmartChatGraduation](https://github.com/AlperCna/SmartChatGraduation)** | 🎓 Graduation project — an AI-powered smart chat application | `Python` |
 | **[TodoApp](https://github.com/AlperCna/TodoApp)** | Todo app built following **Clean Architecture** | `.NET 8` `C#` |
 | **[CRM-n8n-Project](https://github.com/AlperCna/CRM-n8n-Project)** | CRM with webhook-based **n8n** workflow automation | `.NET 8` `Angular` `SQL Server` |
