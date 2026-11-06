@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Full--Stack-1f6feb?style=flat-square" alt="focus">
 </p>
 
+<p align="center">💼 <b>Open to Junior Backend / Full-Stack roles</b> · 📍 Istanbul, Türkiye · <a href="mailto:alpercn04@gmail.com">alpercn04@gmail.com</a> · <a href="https://www.linkedin.com/in/alper-can-518393253">LinkedIn</a></p>
+
 ---
 
 ## 👨‍💻 About Me
